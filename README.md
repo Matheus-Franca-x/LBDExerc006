@@ -8,6 +8,10 @@
 |Codigo|Descrição|IMC|
 -|-|-
 
+## Atividadesaluno
+|Codigo_aluno|Altura|Peso|IMC|Atividade|
+-|-|-|-|-
+
 ---
 
 ## Atividade
@@ -19,9 +23,6 @@ codigo |descricao| imc
 4 |Bicicleta + Biceps + Costas + Pernas |34.9
 5 |Esteira + Bicicleta |39.9
 
-## Atividadesaluno
-|Codigo_aluno|Altura|Peso|IMC|Atividade|
--|-|-|-|-
 
 IMC = Peso (Kg) / Altura2 (M)
 Atividade: Buscar a PRIMEIRA atividade referente ao IMC imediatamente acima do calculado.
